@@ -1,7 +1,7 @@
 body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
     sans-serif;
-  background-image: url("images/image.jpeg");
+  background-image: url("./images/image.jpeg");
   background-size: cover;
   font-weight: bold;
   color: white;
